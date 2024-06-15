@@ -6,7 +6,7 @@ I'm a front-end developer passionate about what I do. I live in Fortaleza, with 
 
 - 💻 Currently working as a Junior Front-end Developer at TGOO Worldwide, where I focus on HTML, CSS, JavaScript, and PHP development, alongside creating responsive layouts and optimizing for SEO.
 - 🎨 Proficient in a range of technologies including Next.js, React.js, React Native, Figma, Git, and following Agile methodologies like Scrum.
-- 🌱 Constantly expanding my knowledge through online courses such as Next.js and React on Udemy, JavaScript on ALURA, and SQL Server basics.
+- 💡 Currently, I am focusing on improving my backend technology skills, working with PHP using the Laravel framework and with Node.js using the Fastify, Express, and NestJS frameworks.
 - 🤝 Experienced in collaborative environments, having previously worked at 3 Corações Alimentos, Polibras Software, and as a Freelancer.
 
 🔧 **Skills**
@@ -14,6 +14,7 @@ I'm a front-end developer passionate about what I do. I live in Fortaleza, with 
 - Frontend Development
 - HTML, CSS, JavaScript
 - React.js, Next.js, React Native
+- PHP (Laravel)
 - Figma, Git
 - UX/UI Design
 - Agile Methodologies (Scrum)
