@@ -35,6 +35,6 @@ I'm a front-end developer passionate about what I do. I live in Fortaleza, with 
 
 - 📧 Email: ryansouzadev@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/ryancosta122](https://www.linkedin.com/in/ryancosta122)
-- 📱 Phone: (85) 99224-0457
+- 📱 Phone: (85) 99162-3247
 
 Let's connect and build something amazing together! 😄✨
